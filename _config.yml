@@ -1,11 +1,11 @@
 # Site settings
 title: Carter's Website
-email: your-email@domain.com
+email: email@email.com
 url: https://github.com/jeromelachaud/freelancer-theme
 description: "This is Carter's website!"
-keywords: "your keywords, separated by commas"
-skills: "Web Developer - Graphic Artist - User Experience Designer"
-meta_author: LastName FirstName
+keywords: "Welcome to my website!"
+skills: 
+meta_author: Gerlach Carter
 
 # Google webmaster tools
 google_verify:
@@ -32,7 +32,7 @@ color:
 
 # Footer settings
 footer:
-  copyright: Dr. Henry Jekyll
+  copyright: 
   location: Location
   social: Around the Web
   credits: Credits
@@ -52,11 +52,11 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+  - line: 
+  - line: Longwood, FL, 32750
 
 # Credits content
-credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
+credits: created by Carter Gerlach
 
 # Build settings
 markdown: kramdown
